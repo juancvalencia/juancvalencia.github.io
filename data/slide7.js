@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{E095097A-1536-4966-B1AC-34DF59F478BA}'];loadHandler&&loadHandler(6, '<div id="spr0_1bf1222"><div id="spr1_1bf1222" class="kern slide"><img id="img1_1bf1222" src="data/img1.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/><div id="spr3_1bf1222"><img id="img0_1bf1222" src="data/img10.png" width="1279.5" height="720.75" alt="Interfaz de usuario gráfica\
+\
+Descripción generada automáticamente" style="left:0.188px;top:-0.281px;"/></div></div><div id="spr2_1bf1222" class="kern slide"></div></div>', '{"s":[]}');})();
